@@ -5,8 +5,8 @@ let name="lars"
 let age="26"
 let year="1994"
 console.log(name,"is",age,"and born in",year)
-let is_married = new Boolean("false")
-console.log(name,"is married:",is_married)
+let is_married = new Boolean(false)
+console.log(name,"is married:",String(is_married))
 let programmingl_anguage="JavaScript"
 let is_fun="false"
 console.log(programmingl_anguage,"is fun:",is_fun)
